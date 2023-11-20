@@ -1,4 +1,4 @@
-**Challenge 1 - Steve's Car Showroom**
+#**Challenge 1 - Steve's Car Showroom**
 ![png](https://github.com/Divyansh-96/Steel-Data/assets/140514612/886f122d-487d-49fa-b2b4-ada67643766f)
 **Problem Statement**
 Steve runs a top-end car showroom but his data analyst has just quit and left him without his crucial insights. Now has has requested us to analyse the data to provide him with all the answers he requires.
