@@ -15,4 +15,5 @@ As a Customer Insights Analyst at 'The General Store', my task is to analyze tab
 8. What is the date of the latest order made by a customer who can receive marketing emails?
 9. What is the name of the country with the highest number of orders?
 10. What is the average age of customers who made orders in the 'vitamins' product category?
+
 Access Solutions [here](https://github.com/Divyansh-96/Steel-Data/blob/main/Customer's%20Insights)
